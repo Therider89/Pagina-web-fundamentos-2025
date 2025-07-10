@@ -70,7 +70,7 @@ function resetauraColor(elemento) {
     
 
    Taco McO 
-        <div class=""Taco McO "">Scratch</div>
+        ""Taco McO ""
        "Este fue el primer proyecto que realice para la materia, fue hecho por mi y compañero  , "Taco McO" El juego trata de comer la mejor cantidad de tacos antes de que se acabe el tiempo.:">
             <p>En mi proyecto de Scratch, creé un juego interactivo donde los usuarios pueden controlar un personaje y recoger objetos para ganar puntos. Utilicé bloques de programación visual para definir las acciones y reacciones del personaje.</p>
             <p>Durante el desarrollo, entendí la importancia de la lógica de eventos y las secuencias de acciones en la programación. Scratch me ayudó a visualizar conceptos básicos de programación de una manera intuitiva y divertida.</p>
