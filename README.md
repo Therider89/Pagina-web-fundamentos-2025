@@ -69,9 +69,9 @@ function resetauraColor(elemento) {
     que pueda llegarle a alguien de la misma manera que esto me llegaron a mi. Me gusta la música, los videojuegos desde los 6 años, me gusta lo que la historia de cada juego que vi y me gastaría ser un buen guionista y poder hacer una idea con mi guion     
     
 
-    <div class="Taco McO ">
+   Taco McO 
         <div class=""Taco McO "">Scratch</div>
-        <div class="Este fue el primer proyecto que realice para la materia, fue hecho por mi y compañero  , "Taco McO" El juego trata de comer la mejor cantidad de tacos antes de que se acabe el tiempo.:">
+       "Este fue el primer proyecto que realice para la materia, fue hecho por mi y compañero  , "Taco McO" El juego trata de comer la mejor cantidad de tacos antes de que se acabe el tiempo.:">
             <p>En mi proyecto de Scratch, creé un juego interactivo donde los usuarios pueden controlar un personaje y recoger objetos para ganar puntos. Utilicé bloques de programación visual para definir las acciones y reacciones del personaje.</p>
             <p>Durante el desarrollo, entendí la importancia de la lógica de eventos y las secuencias de acciones en la programación. Scratch me ayudó a visualizar conceptos básicos de programación de una manera intuitiva y divertida.</p>
             
@@ -119,5 +119,4 @@ Acá estaria el gameplay del proyecto:
   Acá estaria el gameplay del proyecto:  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qrOAlR0WNkk?si=gVVE-x8a-Y_GeoWJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
-</body>
-</html>
+
